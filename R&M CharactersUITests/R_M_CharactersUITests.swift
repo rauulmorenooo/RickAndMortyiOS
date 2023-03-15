@@ -2,7 +2,7 @@
 //  R_M_CharactersUITests.swift
 //  R&M CharactersUITests
 //
-//  Created by Vanaheim on 10/3/23.
+//  Created by Raul Moreno on 10/3/23.
 //
 
 import XCTest

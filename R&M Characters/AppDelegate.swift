@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  R&M Characters
 //
-//  Created by Vanaheim on 10/3/23.
+//  Created by Raul Moreno on 10/3/23.
 //
 
 import UIKit
